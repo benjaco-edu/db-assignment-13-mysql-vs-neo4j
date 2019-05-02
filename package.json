@@ -1,0 +1,8 @@
+{
+  "name": "db13",
+  "version": "1.0.0",
+  "dependencies": {
+    "mysql2": "^1.6.5",
+    "neo4j-driver": "^1.7.3"
+  }
+}
